@@ -61,3 +61,8 @@ However you can obtain these according to the following description (provided by
 Open the Ipython notebook file and execute cell by cell.
 
 Note: The pretrained VGG-19 network must be downloaded manually, this link is contained in the notebook.
+
+## Blog Post
+
+A more detailled look at the project is available from this link: https://christopherrauh.github.io/Dog-Breed-Classifier/
+
